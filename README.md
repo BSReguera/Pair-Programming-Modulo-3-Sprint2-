@@ -1,4 +1,4 @@
-# Pair-Programming - Modulo 3 - Sprint2 - V- Beatriz y Saira
+# Pair-Programming - Modulo 3 - Sprint2 - Beatriz y Saira
 
 Repositorio de Pair Programming del Módulo 3, Sprint 2
 
@@ -13,15 +13,15 @@ El temario realizado en el Módulo 3 está organizado en ----------:
 Lista de Archivos del repositorio:
 
 Lecciones y ejercicios:
-- pairprogramming-modulo3-leccion07.ipynb  
-- pairprogramming-modulo3-leccion08.ipynb 
-- pairprogramming-modulo3-leccion09.ipynb  
-- pairprogramming-modulo3-leccion10.ipynb   
-- pairprogramming-modulo3-leccion11.ipynb
-- pairprogramming-modulo3-leccion12.ipynb
+- pairprogramming-modulo3-sprint2-leccion07.ipynb  
+- pairprogramming-modulo3-sprint2-leccion08.ipynb 
+- pairprogramming-modulo3-sprint2-leccion09.ipynb  
+- pairprogramming-modulo3-sprint2-leccion10.ipynb   
+- pairprogramming-modulo3-sprint2-leccion11.ipynb
+- pairprogramming-modulo3-sprint2-leccion12.ipynb
 - Data:
     En esta carpeta se encuentran los archivos utilizados para la realización de los ejercicios:
-    - world-
+    - world-data_full_apply_nulos.csv
     - world-
 
 Preguntas y Respuestas
