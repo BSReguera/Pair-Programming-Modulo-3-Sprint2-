@@ -12,11 +12,7 @@ En este repositorio encontrarás ejercicios de programación en pareja realizado
 
 Descripción General
 
-El temario realizado en el Módulo 3 está organizado en archivos ".ipynb", ".py", ".sql":
-
-Lista de Archivos del repositorio:
-
-Lecciones y ejercicios:
+El temario realizado en el Módulo 3 está organizado en archivos ".ipynb", ".py", ".sql". Encontrarás una lista de archivos de los ejercicios de las lecciones resueltos:
 - Visualización: pairprogramming-modulo3-sprint2-leccion07.ipynb  
 - Estadística descriptiva: pairprogramming-modulo3-sprint2-leccion08.ipynb 
 - Estadística inferencial: pairprogramming-modulo3-sprint2-leccion09.ipynb  
