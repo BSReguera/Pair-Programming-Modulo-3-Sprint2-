@@ -2,15 +2,20 @@
 
 Repositorio de Pair Programming del Módulo 3, Sprint 2
 
+## INDICE
+1. [Introducción](#1-introducción)
+2. [Descripción general](#2-descripción)
+3. [Preguntas frecuentes](#4-preguntas-frecuentes)
+5. [Autoría](#5-autoria)
+
+# 1. Introducción
+
 ¡Bienvenido al repositorio de Pair Programming del Módulo 3, Sprint 2 sobre Visualización de datos, Estadística descriptiva, Estadística inferencial, A/B Testing y ETL! Aquí encontrarás ejercicios realizados en Jupyter Notebook durante sesiones de programación en pareja. Desde la visualización hasta ETL, este repositorio cubre una gran variedad de temas en programación, junto con ejercicios prácticos y soluciones.
-
-
-Introducción
 
 En este repositorio encontrarás ejercicios de programación en pareja realizados durante el Módulo 3, Sprint 2 del bootcamp de Data Analytics de Adalab. Cubrimos una variedad de temas importantes en el aprendizaje de programación, con un enfoque específico en visualización de datos, estadística y gestión de datos.
 
 
-Descripción General
+# 2. Descripción General
 
 El temario realizado en el Módulo 3 está organizado en archivos ".ipynb", ".py", ".sql". Encontrarás una lista de archivos de los ejercicios de las lecciones resueltos:
 - Visualización: pairprogramming-modulo3-sprint2-leccion07.ipynb  
@@ -29,11 +34,11 @@ El temario realizado en el Módulo 3 está organizado en archivos ".ipynb", ".py
     - marketing_AB.csv
 
 
-Preguntas y Respuestas
+# 3. Preguntas frecuentes
 
 Si tienes preguntas sobre el contenido de este repositorio o sobre las tecnologías cubiertas, no dudes en contactarnos.
 
-Autoría
+# 4. Autoría
 
 Estos ejercicios los han realizado Beatriz Sánchez Reguera e Saira Castellanos Redondo. 
 
