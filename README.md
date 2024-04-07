@@ -1,11 +1,10 @@
 # Pair-Programming - Modulo 3 - Sprint2 - Beatriz y Saira
 
-Repositorio de Pair Programming del Módulo 3, Sprint 2
 
 ## INDICE
 1. [Introducción](#1-introducción)
 2. [Descripción general](#2-descripción)
-3. [Preguntas frecuentes](#4-preguntas-frecuentes)
+3. [Preguntas](#4-preguntas)
 5. [Autoría](#5-autoria)
 
 # 1. Introducción
@@ -34,7 +33,7 @@ El temario realizado en el Módulo 3 está organizado en archivos ".ipynb", ".py
     - marketing_AB.csv
 
 
-# 3. Preguntas frecuentes
+# 3. Preguntas
 
 Si tienes preguntas sobre el contenido de este repositorio o sobre las tecnologías cubiertas, no dudes en contactarnos.
 
