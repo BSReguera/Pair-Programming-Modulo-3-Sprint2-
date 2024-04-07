@@ -146,4 +146,4 @@ def convertir_int(lista_tuplas):
             
         datos_tabla_caract_def.append(tuple(lista_intermedia))
     
-    return datos_tabla_caract_def
+    return datos_tabla_caract_def 

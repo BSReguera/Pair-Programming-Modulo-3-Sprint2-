@@ -29,12 +29,13 @@ bss.creacion_bbdd_tablas(query.query_tabla_producto, "AlumnaAdalab")
 datos_tabla_clientes = list(set(zip(clientes_df["Id"].values, clientes_df["First_name"].values, clientes_df["Last_name"].values, clientes_df["Email"].values, clientes_df["Gender"].values, clientes_df["City"].values, clientes_df["Country"].values, clientes_df["Address"].values)))
 datos_tabla_productos = list(set(zip(productos_df_limpio["Id"].values, productos_df_limpio["Nombre_producto"].values, productos_df_limpio["Categoría"].values, productos_df_limpio["Precio"].values, productos_df_limpio["Origen"].values, productos_df_limpio["Descripcion"].values)))
 #%%
-
-### Da error por ser int64 y float 64 en vez de int y float, hemos intentado solucionarlo
-### con la funcion de conversion que hay en la leccion pero no funciona
 datos_clientes_def = bss.convertir_int(datos_tabla_clientes)
-datos_productos_def = bss.convertir_float(datos_tabla_productos)
+datos_clientes_def2 = bss.convertir_float(datos_clientes_def)
+datos_productos_def = bss.convertir_int(datos_tabla_productos)
+datos_productos_def2 = bss.convertir_float(datos_productos_def)
 #%%
-bss.insertar_datos(query.query_insertar_clientes, "AlumnaAdalab", "Empresa_f", datos_tabla_clientes)
-bss.insertar_datos(query.query_insertar_producto, "AlumnaAdalab", "Empresa_f", datos_tabla_productos)
+#Error en la insercion: Id clientes duplicados
+bss.insertar_datos(query.query_insertar_clientes, "AlumnaAdalab", "Empresa_f", datos_clientes_def2)
+bss.insertar_datos(query.query_insertar_producto, "AlumnaAdalab", "Empresa_f", datos_productos_def2)
 # %%
+clientes_df["Id"].duplicated().sum() #este codigo nos da 0 duplicados

@@ -20,7 +20,7 @@ query_tabla_clientes = """CREATE TABLE IF NOT EXISTS `Empresa_f`.`clientes` (
   `Address` VARCHAR(100) NOT NULL,
   PRIMARY KEY (`Id_cliente`));"""
 
-query_insertar_producto = "INSERT INTO producto (Id_producto, Nombre_producto, Categoría, Precio, Origen, Descripcion) VALUES (%s, %s, %s, %s, %s, %s)"
+query_insertar_producto = "INSERT INTO productos (Id_producto, Nombre_producto, Categoría, Precio, Origen, Descripcion) VALUES (%s, %s, %s, %s, %s, %s)"
 
 query_insertar_clientes = "INSERT INTO clientes (Id_cliente, First_name, Last_name, Email, Gender, City, Country, Address) VALUES (%s, %s, %s, %s, %s, %s, %s, %s)"
 
