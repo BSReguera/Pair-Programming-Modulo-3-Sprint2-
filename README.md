@@ -8,7 +8,7 @@ Introducción
 En este repositorio encontrarás ejercicios de programación en pareja realizados durante el Módulo 3, Sprint 2 del bootcamp de Data Analytics de Adalab. Cubrimos una variedad de temas importantes en el aprendizaje de programación, con un enfoque específico en visualización de datos, estadística y gestión de datos.
 
 Descripción General
-El temario realizado en el Módulo 3 está organizado en jupyters con los pair programmings, ----------:
+El temario realizado en el Módulo 3 está organizado en archivos ".ipynb", ".py", ".sql":
 
 Lista de Archivos del repositorio:
 
@@ -17,15 +17,15 @@ Lecciones y ejercicios:
 - Estadística descriptiva: pairprogramming-modulo3-sprint2-leccion08.ipynb 
 - Estadística inferencial: pairprogramming-modulo3-sprint2-leccion09.ipynb  
 - A/B Testing: pairprogramming-modulo3-sprint2-leccion10.ipynb   
-- ETL I: pairprogramming-modulo3-sprint2-leccion11.ipynb
-- ETL II: pairprogramming-modulo3-sprint2-leccion12.ipynb
-- src: carpeta con un archivo main y otro de soporte, para la realización del pair programming 11.
-- Data:
-    En esta carpeta se encuentran los archivos utilizados para la realización de los ejercicios:
-    - world-data_full_apply_nulos.csv
+- ETL I y ETL II: carpeta que contiene los pairprogramming de las lecciones 11 y 12:
+    - src: creacion de tablas en sql (.py) y archivo de soporte(.py).
+    - Creacion de tablas empresa (.sql)
+    - Archivo main.py
     - ventas.csv
     - clientes.csv
     - productos.csv
+- Archivos utilizados para la realización de los ejercicios:
+    - world-data_full_apply_nulos.csv
     - marketing_AB.csv
 
 Preguntas y Respuestas
